@@ -1,0 +1,2 @@
+# cover_letter_developer
+I developed a cover letter format for my personal use that I input different criteria for the specific COOP I am applying to. I used Python and Pyside 2 ( a spin-off of PyQt) to develop a GUI that would take in this criteria such as example (company name, position title, how you were acquainted to the company in the beginning and what skills you have). It then makes a word document from the inputed criteria.
